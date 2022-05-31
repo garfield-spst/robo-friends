@@ -41,12 +41,18 @@ class App extends Component {
             className="link"
             href="https://github.com/garfield-spst/robo-friends"
             target="_blank"
+            rel="noopener noreferrer"
           >
             Source Code
           </a>
         </div>
         <div className="tc grow br3 pa3 ma2 dib bw2">
-          <a className="link" href="http://garfield-spst.xyz" target="_blank">
+          <a
+            className="link"
+            href="http://garfield-spst.xyz"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             Surya Pratap Singh
           </a>
         </div>
